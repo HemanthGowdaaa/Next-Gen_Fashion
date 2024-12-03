@@ -3,8 +3,10 @@
 
 # Final Year Project By:
 <ul>
-  <li>Team Lead : Hemanth Kumar M</li>
+  <li>Hemanth Kumar M (<i>Team Lead</i>)</li>
   <li>Bharath G</li>
   <li>Adithya B Y</li>
   <li>Adarash R Prabhu</li>
 </ul>
+
+# Coming Soon... 
